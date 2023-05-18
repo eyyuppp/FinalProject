@@ -1,0 +1,13 @@
+/Users/eyyuperdogan/Projects/FinalProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.deps.json
+/Users/eyyuperdogan/Projects/FinalProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/eyyuperdogan/Projects/FinalProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/eyyuperdogan/Projects/FinalProject/DataAccess/bin/Debug/netstandard2.1/Entities.dll
+/Users/eyyuperdogan/Projects/FinalProject/DataAccess/bin/Debug/netstandard2.1/Entities.pdb
+/Users/eyyuperdogan/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.AssemblyReference.cache
+/Users/eyyuperdogan/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyyuperdogan/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfoInputs.cache
+/Users/eyyuperdogan/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfo.cs
+/Users/eyyuperdogan/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/eyyuperdogan/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CopyComplete
+/Users/eyyuperdogan/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.dll
+/Users/eyyuperdogan/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.pdb

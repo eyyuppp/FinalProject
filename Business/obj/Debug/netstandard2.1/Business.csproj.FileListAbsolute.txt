@@ -1,0 +1,15 @@
+/Users/eyyuperdogan/Projects/FinalProject/Business/bin/Debug/netstandard2.1/Business.deps.json
+/Users/eyyuperdogan/Projects/FinalProject/Business/bin/Debug/netstandard2.1/Business.dll
+/Users/eyyuperdogan/Projects/FinalProject/Business/bin/Debug/netstandard2.1/Business.pdb
+/Users/eyyuperdogan/Projects/FinalProject/Business/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/eyyuperdogan/Projects/FinalProject/Business/bin/Debug/netstandard2.1/Entities.dll
+/Users/eyyuperdogan/Projects/FinalProject/Business/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/eyyuperdogan/Projects/FinalProject/Business/bin/Debug/netstandard2.1/Entities.pdb
+/Users/eyyuperdogan/Projects/FinalProject/Business/obj/Debug/netstandard2.1/Business.csproj.AssemblyReference.cache
+/Users/eyyuperdogan/Projects/FinalProject/Business/obj/Debug/netstandard2.1/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyyuperdogan/Projects/FinalProject/Business/obj/Debug/netstandard2.1/Business.AssemblyInfoInputs.cache
+/Users/eyyuperdogan/Projects/FinalProject/Business/obj/Debug/netstandard2.1/Business.AssemblyInfo.cs
+/Users/eyyuperdogan/Projects/FinalProject/Business/obj/Debug/netstandard2.1/Business.csproj.CoreCompileInputs.cache
+/Users/eyyuperdogan/Projects/FinalProject/Business/obj/Debug/netstandard2.1/Business.csproj.CopyComplete
+/Users/eyyuperdogan/Projects/FinalProject/Business/obj/Debug/netstandard2.1/Business.dll
+/Users/eyyuperdogan/Projects/FinalProject/Business/obj/Debug/netstandard2.1/Business.pdb
